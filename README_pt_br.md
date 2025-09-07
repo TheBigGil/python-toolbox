@@ -6,7 +6,7 @@ Os projetos estão organizados por área, para facilitar a navegação.
 ---
 
 ## 📑 Ferramentas para PDF
-Utilitários para trabalhar com arquivos PDF:
+Utilitários para trabalhar com arquivos PDF: [PythonPDF | https://github.com/TheBigGil/pdf-tools.git]
 
 ---
 
