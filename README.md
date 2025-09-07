@@ -6,7 +6,7 @@ The projects are organized by field, so you can easily find what you need.
 ---
 
 ## 📑 PDF Tools
-Utilities for working with PDF files:
+Utilities for working with PDF files: [PythonPDF | https://github.com/TheBigGil/pdf-tools.git]
 
 ---
 
